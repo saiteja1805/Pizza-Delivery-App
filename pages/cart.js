@@ -97,7 +97,7 @@ export default function Cart() {
             </div>
           </div>
 
-          {!Order && CartData.pizzas.length > 0 ? (
+          {!Order && cartData.pizzas.length > 0 ? (
             <div className={css.buttons }>
               <button className="btn" onClick={handleOnDelivery}>
                 Pay On Delivery
