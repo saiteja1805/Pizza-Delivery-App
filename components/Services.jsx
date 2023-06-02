@@ -1,4 +1,4 @@
-import css from '../Styles/Services.module.css';
+import css from '../styles/Services.module.css';
 import Image from 'next/image';
 import s1 from '../assets/s1.png';
 import s2 from '../assets/s2.png';
